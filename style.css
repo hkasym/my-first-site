@@ -3,6 +3,10 @@
      width: 10%;
      height: auto;
 }
-body (
+body {
       background-color: #B1D0E0;
-)
+      color: #9145B6;
+}
+hr {
+      color: #9145B6;
+}
